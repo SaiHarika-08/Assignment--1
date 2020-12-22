@@ -1,4 +1,4 @@
-A python Program which will find all such numbers which are divisible by 7 and are not multipe of 5, between 2000 to 3000.
+###A python Program which will find all such numbers which are divisible by 7 and are not multipe of 5, between 2000 to 3000.
 
 
 number=[]
