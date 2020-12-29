@@ -1,0 +1,6 @@
+### 2. python program to accept the user's first and last name and then getting them in reverse order with a space between first and last name.
+
+
+first_name = input("Input your First Name : ")
+last_name = input("Input your Last Name : ")
+print ("Hello  " + last_name + " " + first_name)
