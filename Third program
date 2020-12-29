@@ -1,0 +1,15 @@
+### 3. python program to find the volume of a sphere with diameters is 12 cms.[v=(4/3)*pi*(r**3)]
+
+
+
+pi=22/7
+r=12/2
+v=((4/3)*pi*(r**3))
+print("The Volume of a Sphere is :", v)
+
+###
+import math
+pi=math.pi
+r=float(12/2)
+v=(float(4/3)*pi*(r**3))
+print("The Volume of a Sphere is :", v)
