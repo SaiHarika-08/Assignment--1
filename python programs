@@ -1,0 +1,23 @@
+### 1. python Program which will find all such numbers which are divisible by 7 and are not multipe of 5, between 2000 to 3000.
+
+for i in range(2000, 3000):
+    if(i%7==0 and i*5!=0):
+        print(i, end=',')
+        
+        
+        
+### 2. ### WAP to accept user's first and last name and getting them in reverse order with space between them
+
+first_name=input("Enter First Name: ")
+last_name=input("Enter Last Name: ")
+print(last_name + " " + first_name)       
+
+
+
+### WAP to find the volume of sphere, d=12cm,,,v=(4/3)pi(r**3)
+
+r=(12/2)
+v=float((4/3)*(3.14)*(r**3))
+v1=float((4/3)*(22/7)*(r**3))
+print("The Volume of the sphere : ", v)
+print("The Volume of the sphere : ", v1)
